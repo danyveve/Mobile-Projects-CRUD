@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#008577</color>
+    <color name="colorPrimaryDark">#00574B</color>
+    <color name="colorAccent">#D81B60</color>
+    <color name="buttonLabel">#d3d3d3</color>
+    <color name="splash_color">#FFFFFF</color>
+
+    <color name="colorPrimaryNightMode">#000000</color>
+    <color name="colorPrimaryDarkNightMode">#888888</color>
+    <color name="colorAccentNightMode">#FFFFFF</color>
+    <color name="splash_colorNightMode">#888888</color>
+</resources>

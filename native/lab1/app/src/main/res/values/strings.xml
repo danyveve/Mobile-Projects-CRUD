@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Lab1</string>
+    <string name="hint_name">Name…</string>
+    <string name="hint_category">Category…</string>
+    <string name="hint_description">Description…</string>
+    <string name="hint_quantity">Quantity…</string>
+    <string name="hint_price">Price…</string>
+    <string name="hint_currency">Currency…</string>
+    <string name="button_save">Save</string>
+    <string name="button_update">Update</string>
+    <string name="empty_not_saved">Musical Instrument not saved because some information is missing!</string>
+    <string name="empty_not_updated">Musical Instrument not updated because some information is missing!</string>
+    <string name="fetch_failed">Retrieving Musical Instrument from Server failed!</string>
+    <string name="operation_not_available_untill_online">This operation is not available in the offline mode.</string>
+</resources>
