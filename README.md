@@ -1,7 +1,7 @@
 # Mobile-Projects-CRUD
 A mobile application that is able to perform CRUD operations with Musical Instruments objects. There are 3 implementations of this application:
 * A Kotlin implementation
-* A Flutter implementation
+* A Dart implementation
 * A Kotlin client + Java server implementation
 
 ## Overview
